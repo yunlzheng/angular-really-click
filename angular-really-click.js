@@ -8,7 +8,9 @@ angular.module('angular.directives', ['dialogs'])
             restrict: 'A',
             link: function ($scope, element, attrs) {
 
-                element.bind('click', function () {
+                element.bind('click', function (e) {
+
+                    e.preventDefault();
 
                     var dlg = $dialogs.confirm(attrs.ngReallyTitle ? attrs.ngReallyTitle : 'Confirm D, message', attrs.ngReallyMessage ? attrs.ngReallyMessage : 'confirm messages...');
 
