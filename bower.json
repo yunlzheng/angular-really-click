@@ -1,0 +1,23 @@
+{
+  "name": "angular-really-click",
+  "version": "0.0.0",
+  "authors": [
+    "yunlzheng <yunl.zheng@gmail.com>"
+  ],
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "description": "angular realy click directive with dialog service",
+  "main": "angular-really-click.js",
+  "dependencies": {
+    "angular-dialog-service": "~3.1.0"
+  }
+}
