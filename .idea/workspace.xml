@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cf87d759-a1dd-4b9e-9e77-e1b993cca01f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-really-click.js" afterPath="$PROJECT_DIR$/angular-really-click.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/js/app.js" afterPath="$PROJECT_DIR$/example/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/index.html" afterPath="$PROJECT_DIR$/example/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-really-click.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,7 +29,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="133" selection-start="783" selection-end="783" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="480">
+            <state line="15" column="37" selection-start="686" selection-end="686" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -49,7 +47,7 @@
       <file leaf-file-name="angular-really-click.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/angular-really-click.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.23638968" vertical-offset="0" max-vertical-offset="698">
+            <state line="41" column="126" selection-start="1350" selection-end="1350" vertical-scroll-proportion="0.7636103" vertical-offset="82" max-vertical-offset="870">
               <folding />
             </state>
           </provider>
@@ -70,8 +68,8 @@
       <list>
         <option value="$PROJECT_DIR$/example/css/style.css" />
         <option value="$PROJECT_DIR$/example/js/app.js" />
-        <option value="$PROJECT_DIR$/angular-really-click.js" />
         <option value="$PROJECT_DIR$/example/index.html" />
+        <option value="$PROJECT_DIR$/angular-really-click.js" />
       </list>
     </option>
   </component>
@@ -252,13 +250,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="133" selection-start="783" selection-end="783" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="480">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="28" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
@@ -266,9 +257,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/example/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="37" selection-start="686" selection-end="686" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/angular-really-click.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.23638968" vertical-offset="0" max-vertical-offset="698">
+        <state line="41" column="126" selection-start="1350" selection-end="1350" vertical-scroll-proportion="0.7636103" vertical-offset="82" max-vertical-offset="870">
           <folding />
         </state>
       </provider>
