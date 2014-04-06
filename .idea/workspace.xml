@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf87d759-a1dd-4b9e-9e77-e1b993cca01f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-really-click.js" afterPath="$PROJECT_DIR$/angular-really-click.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/index.html" afterPath="$PROJECT_DIR$/example/index.html" />
     </list>
     <ignored path="angular-really-click.iws" />
@@ -26,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="37" selection-start="686" selection-end="686" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="510">
+            <state line="12" column="127" selection-start="547" selection-end="547" vertical-scroll-proportion="0.2670623" vertical-offset="0" max-vertical-offset="674">
               <folding />
             </state>
           </provider>
@@ -44,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="angular-really-click.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="angular-really-click.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/angular-really-click.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="126" selection-start="1350" selection-end="1350" vertical-scroll-proportion="0.7636103" vertical-offset="82" max-vertical-offset="870">
+            <state line="41" column="126" selection-start="1350" selection-end="1350" vertical-scroll-proportion="0.0" vertical-offset="82" max-vertical-offset="870">
               <folding />
             </state>
           </provider>
@@ -68,8 +67,8 @@
       <list>
         <option value="$PROJECT_DIR$/example/css/style.css" />
         <option value="$PROJECT_DIR$/example/js/app.js" />
-        <option value="$PROJECT_DIR$/example/index.html" />
         <option value="$PROJECT_DIR$/angular-really-click.js" />
+        <option value="$PROJECT_DIR$/example/index.html" />
       </list>
     </option>
   </component>
@@ -257,16 +256,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/index.html">
+    <entry file="file://$PROJECT_DIR$/angular-really-click.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="37" selection-start="686" selection-end="686" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="510">
+        <state line="41" column="126" selection-start="1350" selection-end="1350" vertical-scroll-proportion="0.0" vertical-offset="82" max-vertical-offset="870">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-really-click.js">
+    <entry file="file://$PROJECT_DIR$/example/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="126" selection-start="1350" selection-end="1350" vertical-scroll-proportion="0.7636103" vertical-offset="82" max-vertical-offset="870">
+        <state line="12" column="127" selection-start="547" selection-end="547" vertical-scroll-proportion="0.2670623" vertical-offset="0" max-vertical-offset="674">
           <folding />
         </state>
       </provider>

@@ -10,10 +10,10 @@
     <div ng-controller="DemoCtrl as demo">
         <h2 ng-bind="demo.welcome"></h2>
         <h3>Really Click With The Button</h3>
-        <button ng-really-title="Confirm Dialog" ng-really-message="Are you really click?" ng-really-click="demo.takeAction()" ng-really-cancle="demo.cancle()">Really Clock?</button>
+        <button class="btn" ng-really-title="Confirm Dialog" ng-really-message="Are you really click?" ng-really-click="demo.ok()" ng-really-cancle="demo.cancle()">Really Clock?</button>
 
         <h3>Really Click With The Href?</h3>
-        <a href="http://www.baidu.com" ng-really-title="Confirm Dialog" ng-really-message="Are you really click?" ng-really-click="demo.ok()">Really Clock?</a>
+        <a href="http://www.baidu.com" ng-really-title="Confirm Dialog" ng-really-message="Are you really click?" ng-really-click="demo.ok()">Really Click Href?</a>
 
 
         <h3>Really Href Navigate </h3>
