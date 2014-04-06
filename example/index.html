@@ -9,8 +9,13 @@
 <body>
     <div ng-controller="DemoCtrl as demo">
         <h2 ng-bind="demo.welcome"></h2>
-        <a href="hello world!" ng-really-title="Confirm Dialog" ng-really-message="Are you really click?" ng-really-click="takeAction()">Really Clock?</a>
-        <button ng-really-title="Confirm Dialog" ng-really-message="Are you really click?" ng-really-click="takeAction()">Really Clock?</button>
+
+        <h3>Really Click The Button</h3>
+        <button ng-really-title="Confirm Dialog" ng-really-message="Are you really click?" ng-really-click="demo.takeAction()" ng-really-cancle="demo.cancle()">Really Clock?</button>
+
+        <h3>Really navigating to other link?</h3>
+        <a href="hello world!" ng-really-title="Confirm Dialog" ng-really-message="Are you really click?" ng-really-click="demo.ok()">Really Clock?</a>
+
     </div>
     <script type="text/javascript" src="../bower_components/angular/angular.js"></script>
     <script type="text/javascript" src="../bower_components/angular-sanitize/angular-sanitize.js"></script>

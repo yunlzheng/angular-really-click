@@ -14,11 +14,14 @@ angular.module('angular.directives', ['dialogs'])
 
                     var dlg = $dialogs.confirm(attrs.ngReallyTitle ? attrs.ngReallyTitle : 'Confirm D, message', attrs.ngReallyMessage ? attrs.ngReallyMessage : 'confirm messages...');
 
-                    dlg.result.then(function (btn) {
+                    dlg.result.then(function () {
 
                         $scope.$eval(attrs.ngReallyClick);
 
-                    }, function (btn) {
+                    }, function () {
+
+                        $scope.$eval(attrs.ngReallyCancle);
+
                     });
 
                 });

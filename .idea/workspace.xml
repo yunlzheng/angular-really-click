@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="cf87d759-a1dd-4b9e-9e77-e1b993cca01f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-really-click.js" afterPath="$PROJECT_DIR$/angular-really-click.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/js/app.js" afterPath="$PROJECT_DIR$/example/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/index.html" afterPath="$PROJECT_DIR$/example/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-really-click.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,19 +28,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="7" selection-start="282" selection-end="282" vertical-scroll-proportion="0.15885022" vertical-offset="0" max-vertical-offset="661">
+            <state line="16" column="133" selection-start="783" selection-end="783" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="480">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="angular-really-click.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="28" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="angular-really-click.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/angular-really-click.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="49" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+            <state line="11" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.23638968" vertical-offset="0" max-vertical-offset="698">
               <folding />
             </state>
           </provider>
@@ -59,8 +70,8 @@
       <list>
         <option value="$PROJECT_DIR$/example/css/style.css" />
         <option value="$PROJECT_DIR$/example/js/app.js" />
-        <option value="$PROJECT_DIR$/example/index.html" />
         <option value="$PROJECT_DIR$/angular-really-click.js" />
+        <option value="$PROJECT_DIR$/example/index.html" />
       </list>
     </option>
   </component>
@@ -179,7 +190,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -208,7 +219,9 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/bower_components/angular/angular.js">
@@ -239,23 +252,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/example/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="133" selection-start="783" selection-end="783" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/example/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="29" selection-start="138" selection-end="138" vertical-scroll-proportion="0.10744986" vertical-offset="0" max-vertical-offset="698">
+        <state line="14" column="28" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/angular-really-click.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="49" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="7" selection-start="282" selection-end="282" vertical-scroll-proportion="0.15885022" vertical-offset="0" max-vertical-offset="661">
+        <state line="11" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.23638968" vertical-offset="0" max-vertical-offset="698">
           <folding />
         </state>
       </provider>
